@@ -28,6 +28,7 @@ This is a simple Java program that converts a GPA input into its corresponding *
 📌 Example Output
 
 Enter GPA (or type 'exit' to quit): 2.0
+
 2.0   < 76.0% to 75.0%
 
 
